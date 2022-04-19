@@ -1,6 +1,9 @@
 # PizzaAPI
 Pizza API to simulate a pizza place order taking system
 
+## Demo
+https://myapiforpizza.herokuapp.com/docs
+
 ## Getting Started
 
 ### Dependencies
